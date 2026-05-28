@@ -260,6 +260,28 @@ no mapa mas sinalize visualmente como externas.
 Guarde esse contexto pois vou pedir um diagrama em seguida.
 ```
 
+```
+OU APENAS UMA LISTA
+Analise o repositório [NomeDaAplicacao] no Azure DevOps
+e liste apenas os nomes de todas as aplicações que
+fazem interface com ele, seja:
+- Chamando ele via HTTP
+- Sendo chamado por ele via HTTP
+- Compartilhando filas de mensageria (publica ou consome)
+- Compartilhando banco de dados
+
+Retorne apenas a lista de nomes, sem diagrama e sem detalhes técnicos.
+
+Variação — se quiser saber a direção da interface:
+Analise o repositório [NomeDaAplicacao] no Azure DevOps
+e liste as aplicações que fazem interface com ele,
+agrupadas por direção:
+
+- Quem chama [NomeDaAplicacao]
+- Quem [NomeDaAplicacao] chama
+- Filas compartilhadas
+```
+
 
 ### Prompt do mapa (rode logo após)
 
