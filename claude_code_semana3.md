@@ -244,6 +244,23 @@ o que essas dependências também consomem.
 Guarde esse contexto pois vou pedir um diagrama em seguida.
 ```
 
+```
+OU Prompt de preparação — múltiplas aplicações selecionadas:
+Analise os seguintes repositórios no Azure DevOps:
+- [NomeDaAplicacao1]
+- [NomeDaAplicacao2]
+- [NomeDaAplicacao3]
+
+Para cada um mapeie: chamadas HTTP, filas de mensageria,
+bancos de dados e dependências externas.
+Foque especialmente nas conexões que existem ENTRE
+essas aplicações listadas.
+Se encontrar dependências fora dessa lista, inclua
+no mapa mas sinalize visualmente como externas.
+Guarde esse contexto pois vou pedir um diagrama em seguida.
+```
+
+
 ### Prompt do mapa (rode logo após)
 
 ```
