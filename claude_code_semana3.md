@@ -232,6 +232,18 @@ filas de mensageria, bancos de dados e dependências externas.
 Guarde esse contexto pois vou pedir um diagrama em seguida.
 ```
 
+```
+OU Prompt de preparação — a partir de uma aplicação:
+
+Analise o repositório [NomeDaAplicacao] no Azure DevOps
+e mapeie todas as conexões a partir dele: quais serviços
+ele chama via HTTP, quais filas publica ou consome,
+quais bancos de dados acessa e quais dependências externas utiliza.
+Se encontrar dependências, analise um nível a mais — ou seja,
+o que essas dependências também consomem.
+Guarde esse contexto pois vou pedir um diagrama em seguida.
+```
+
 ### Prompt do mapa (rode logo após)
 
 ```
