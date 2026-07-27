@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: Analisa todos os repositórios do projeto no Azure DevOps e exporta service-map.json
 ---
 

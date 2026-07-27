@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: Gera diagrama Mermaid das conexões entre serviços a partir do service-map.json
 ---
 

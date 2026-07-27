@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: Preenche título e descrição de um work item do Azure Boards a partir de um contexto, usando o MCP do Azure DevOps
 ---
 

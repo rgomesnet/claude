@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: Gera um arquivo service-map.html interativo a partir de um service-map.json
 ---
 
